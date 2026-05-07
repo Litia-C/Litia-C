@@ -19,7 +19,8 @@ Trabajo en proyectos personales creando videojuegos y assets para ser utilizados
 
 ### Contacto:
 
-📫 litiacal@gmail.com
+- 📫 litiacal@gmail.com
+- [Linkedin](https://www.linkedin.com/in/litia-calder%C3%B3n-maceira-8b2a95393/)
 <!--
 **Litia-C/Litia-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
