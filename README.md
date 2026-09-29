@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1076&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-<img width="560" height="425" alt="github2" src="https://github.com/user-attachments/assets/159cf6d7-b078-42d8-9d99-036ebb828586" />
+<img width="800" height="608" alt="github2" src="https://github.com/user-attachments/assets/6570f7e6-6abd-4fa1-b608-599aeab3ad1a" />
 
 ## Litia Calderón Maceira
 
