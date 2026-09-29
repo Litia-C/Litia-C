@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1076&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
+<img width="1120" height="738" alt="github" src="https://github.com/user-attachments/assets/70850ecc-2255-4f5e-9c3c-1eb2aa8cd188" />
+
 ## Litia Calderón Maceira
 
 ### Sobre mí:
